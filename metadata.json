@@ -1,0 +1,7 @@
+{
+  "name": "Golden Perfume Milano",
+  "description": "A luxury fragrance consultant application for Golden Perfume Milano, providing expert advice, image analysis, and scent knowledge in Burmese.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
